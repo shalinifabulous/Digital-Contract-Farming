@@ -62,5 +62,5 @@ This project is a learning/final-year project. Contributions are welcome — ple
 
 📞 Contact
 
-Shalini Gupta — youremail@example.com 
-LinkedIn: https://www.linkedin.com/in/your-profile
+Shalini Gupta — shalinig282522@gmail.com 
+LinkedIn: https://www.linkedin.com/in/shalini-gupta-714a54322/
