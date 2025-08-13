@@ -1,0 +1,30 @@
+digital-contract-farming/
+├─ .github/
+│  ├─ workflows/ci.yml
+│  └─ ISSUE_TEMPLATE/
+├─ public/
+├─ src/
+│  ├─ assets/
+│  │  └─ farmer.json
+│  ├─ components/
+│  │  └─ Background.jsx
+│  ├─ pages/
+│  │  ├─ Home.js
+│  │  ├─ Login.js
+│  │  └─ Register.js
+│  ├─ index.css
+│  ├─ index.js
+│  └─ App.js
+├─ .gitignore
+├─ README.md
+└─ LICENSE
+
+Quick git setup commands:
+
+```bash
+git init
+git add .
+git commit -m "chore: initial project files"
+git branch -M main
+git remote add origin https://github.com/<your-username>/<repo-name>.git
+git push -u origin main
